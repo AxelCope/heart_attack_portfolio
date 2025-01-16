@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cbb404-fe03-435d-8476-e7f2e0b1e109" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/heart attack portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/heart attack portfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b6cbb404-fe03-435d-8476-e7f2e0b1e109" name="Changes" comment="QUestion 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/heart_attack-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/heart_attack-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/untitled-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/untitled-checkpoint.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.virtual_documents/heart_attack.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.virtual_documents/heart_attack.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heart_attack.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/heart_attack.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.md" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +72,22 @@
       <option name="presentableId" value="Default" />
       <updated>1736378137156</updated>
     </task>
+    <task id="LOCAL-00001" summary="QUestion 1">
+      <option name="closed" value="true" />
+      <created>1736456915982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736456915982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="QUestion 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="QUestion 1" />
   </component>
 </project>
