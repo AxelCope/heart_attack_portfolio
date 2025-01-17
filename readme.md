@@ -12,15 +12,8 @@ This project analyzes heart attack data in Germany, focusing on the comparison b
 
 ## Data
 
-[Data section as before]
+[Data section as before](https://www.kaggle.com/datasets/ankushpanday1/heart-attack-in-youth-vs-adult-in-germany)
 
-## Methodology
-
-[Methodology section as before]
-
-## Tools
-
-[Tools section as before]
 
 ## Results 
 
