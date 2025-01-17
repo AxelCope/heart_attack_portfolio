@@ -41,8 +41,3 @@ This analysis of heart attack data in Germany between youth and adults yielded s
 * **Diet Quality:** Poor diet quality appears to be a contributing factor to heart attacks.
 * **Urban vs Rural:** There isn't a significant difference in heart attack risk between urban and rural areas.
 
-## Future Work
-
-[Future Work section as before]
-
-This README provides a high-level overview of the project. For more detailed information, please refer to the project code and accompanying documentation.
